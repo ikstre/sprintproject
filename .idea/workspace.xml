@@ -57,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +80,7 @@
       <workItem from="1769558548618" duration="1511000" />
       <workItem from="1769574159562" duration="32000" />
       <workItem from="1769574266289" duration="816000" />
-      <workItem from="1769577981597" duration="12000" />
+      <workItem from="1769577981597" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="git add README.md">
       <option name="closed" value="true" />
